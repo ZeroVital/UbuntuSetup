@@ -1,2 +1,2 @@
-PROMPT="%F{26}[%n]%f%F{141}%f%F{34}[%m]%f ➜ %~ "
+PROMPT="%F{26}[%n]%f%F{141}%f%F{34}[%m]%f %~ "
 RPROMPT="%F{green}%T%f"
